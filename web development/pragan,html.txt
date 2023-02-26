@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>div and span elements</title>
+</head>
+<body>
+    <div>*** DIV 1: some content here ***</div>
+    <div>*** DIV 2: after DIV1 ***</div>
+    <span>*** SPAN 1: right after div 2 ***</span>
+    <div>
+        *** DIV 3: right after span 1
+        <span>*** SPAN 2: INSODE div 3 ***</span>
+        continue conyent of div 3 ***
+    </div>
+</body>
+</html>
